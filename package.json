@@ -2,10 +2,10 @@
   "name": "mydata",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "data.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
+    "start": "node data.js",
     "postinstall": "npm rebuild sqlite3"
   },
   "engines": {
